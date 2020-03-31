@@ -1,0 +1,9 @@
+name: instagram_etl
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.1
+  - requests=2.23.0
+  - pandas=1.0.1
+  - beautifulsoup4=4.8.2
