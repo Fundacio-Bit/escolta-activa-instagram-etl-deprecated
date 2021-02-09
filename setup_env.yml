@@ -1,4 +1,4 @@
-name: instagram_etl
+name: escolta_activa_instagram_etl
 channels:
   - conda-forge
   - defaults
