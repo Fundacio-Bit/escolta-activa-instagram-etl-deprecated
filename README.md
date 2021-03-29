@@ -17,7 +17,7 @@ It is shared with you under the MIT license.
 have the most updated version):
 
 ```console
-conda remove --name instagram_etl --all
+conda remove --name escolta_activa_instagram_etl --all
 conda env create -f setup_env.yml
 ```
 You can check if the environment was deployed correctly using:
